@@ -2,7 +2,7 @@
 Standart graphical slider.
 # How to use
 To create a slider we need to specify some properties:
-slider({container, slide, nextArrow, prevArrow, totalCounter, currentCounter,wrapper, field})
+slider({container, slide, nextArrow, prevArrow, totalCounter, currentCounter,wrapper, field})<br>
 container - block with slider
 slide - pictures of slides
 totalCounter - block with number of slides
